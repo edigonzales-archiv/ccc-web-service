@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/edigonzales/ccc-web-service.svg?branch=master)](https://travis-ci.org/edigonzales/ccc-web-service)
 
-# ccc-web-service - a prototype
+# ccc-web-service - a prototype
 
 Spielwiese für CCC-Server mit Spring Boot und STOMP.
 
